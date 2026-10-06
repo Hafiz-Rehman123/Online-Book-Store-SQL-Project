@@ -5,7 +5,7 @@ An end-to-end relational database project built using **MySQL** to manage and an
 ---
 
 <p align="center">
-  <img src="screenshot.png" alt="SQL Project on Online Book store" width="100%">
+  <img src="Screenshot.png" alt="SQL Project on Online Book store" width="100%">
 </p>
 
 ---
